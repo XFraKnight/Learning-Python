@@ -34,7 +34,7 @@ print(2 == 2) #Igual -> True
 print(2 != 2) #Distinto -> False
 
 #Operadors lógicos
-print('-----------------------')
+
 print(2 < 3  and 2 == 2) # AND -> Se cumplen los dos
 print(2 < 3  and 3 == 2) 
 
